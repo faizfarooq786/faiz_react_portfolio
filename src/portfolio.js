@@ -494,13 +494,13 @@ const projects = {
           name: "javaScript",
           iconifyClass: "devicon-aws",
         },
-        {
-          name: "react.js",
-          iconifyClass: "devicon-go",
-        },
+        //{
+         // name: "react.js",
+        //  iconifyClass: "devicon-go",
+       // },
         // {
-        //   name: "TypeScript",
-        //   iconifyClass: "devicon-typescript",
+        //   name: "Wanderlust",
+         // iconifyClass: "devicon-typescript",
         // },
         // {
         //   name: "Next.js",
@@ -516,11 +516,11 @@ const projects = {
         // },
       ],
     },
-    //     {
-    //       name: "CineScope",
-    //       url: "https://github.com/Hrishi1999/CineScope",
-    //       description: "An IMDB-like application.",
-    //       languages: [
+         {
+           name: "Wanderlust",
+       url: "https://wanderlust-1-fch5.onrender.com/listings",
+           description: "The application mimics a platform similar to Airbnb, where users can browse listings, book properties, and manage their profiles. The front end is designed to be user-friendly, responsive, and visually appealing, making use of Bootstrap for mobile-first, adaptive layouts.",
+           languages: [
     //         {
     //           name: "React.js",
     //           iconifyClass: "logos-react",
@@ -529,19 +529,19 @@ const projects = {
     //           name: "TypeScript",
     //           iconifyClass: "devicon-typescript",
     //         },
-    //         {
-    //           name: "Node.js",
-    //           iconifyClass: "devicon-nodejs",
-    //         },
-    //         {
-    //           name: "Express.js",
-    //           iconifyClass: "devicon-express",
-    //         },
-    //         {
-    //           name: "MongoDB",
-    //           iconifyClass: "logos-mongodb",
-    //         },
-    //       ],
+          {
+             name: "Node.js",
+             iconifyClass: "devicon-nodejs",
+            },
+            {
+               name: "Express.js",
+               iconifyClass: "devicon-express",
+             },
+          {
+             name: "MongoDB",
+            iconifyClass: "logos-mongodb",
+            },
+          ],
     //     },
     //     {
     //       name: "Journalify",
