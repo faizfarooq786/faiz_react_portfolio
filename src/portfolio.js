@@ -542,7 +542,7 @@ const projects = {
             iconifyClass: "logos-mongodb",
             },
           ],
-    //     },
+        },
     //     {
     //       name: "Journalify",
     //       url: "https://play.google.com/store/apps/details?id=com.picle.journalify",
