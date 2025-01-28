@@ -519,7 +519,7 @@ const projects = {
          {
            name: "Wanderlust",
        url: "https://wanderlust-1-fch5.onrender.com/listings",
-           description: "The application mimics a platform similar to Airbnb, where users can browse listings, book properties, and manage their profiles. The front end is designed to be user-friendly, responsive, and visually appealing, making use of Bootstrap for mobile-first, adaptive layouts.",
+           description: "The application mimics a platform similar to Airbnb, where users can browse listings, book properties, and manage their profiles. The front end is designed to be user-friendly, responsive, and visually appealing, making use of Bootstrap for mobile-first, adaptive layouts.Please click here to go website.",
            languages: [
     //         {
     //           name: "React.js",
